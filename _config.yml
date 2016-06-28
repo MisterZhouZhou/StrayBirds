@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: MisterZhouZhou
-baseurl: /StrayBirds
+baseurl: /zwblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
