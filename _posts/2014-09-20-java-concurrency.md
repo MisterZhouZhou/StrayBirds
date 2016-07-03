@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 中的并发
+title: Java 中的并发介绍
 category: 技术
 comments: true
 ---
